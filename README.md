@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-💻 Passionate about **Web Development**| **Design**, and building modern platforms.  
+💻 Passionate about  Web Development | UI/UX Design | AI , and building modern platforms.  
 <br> 🎓 Bachelor in Computer Science  <br>📍 Based in Algeria 
 </h3>
 ---
