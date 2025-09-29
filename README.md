@@ -1,10 +1,10 @@
 <h1 align="center">
-  <b>Hey, it's RANIA  <marquee>👋</marquee> Welcome to my GitHub!</b>
+  <b>Hey, it's RANIA  <marquee>👋💗</marquee> Welcome to my GitHub!</b>
 </h1>
 
 
 <h3 align="center">
-💻 Passionate about  Web Development | UI/UX Design | AI , and building modern platforms.  
+💻 Passionate about  Web Development | UI/UX Design | AI , and 🌸building modern platforms🌸.  
 <br> 🎓 Bachelor in Computer Science  <br>📍 Based in Algeria 
 </h3>
 ---
