@@ -3,10 +3,10 @@
 </h1>
 
 
-
-💻 Passionate about **Web Development**, **Design**, and building modern platforms.  
-📍 Based in Algeria | 🎓 Bachelor in Computer Science  
-
+<h3 align="center">
+💻 Passionate about **Web Development**| **Design**, and building modern platforms.  
+<br> 🎓 Bachelor in Computer Science  <br>📍 Based in Algeria 
+</h3>
 ---
 
 ## 🚀 Current State
