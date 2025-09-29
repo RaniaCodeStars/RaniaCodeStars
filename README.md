@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Rania  
+<h1 align="center">
+  <b>Hey, it's RANIA  <marquee>👋</marquee> Welcome to my GitHub!</b>
+</h1>
+
+
 
 💻 Passionate about **Web Development**, **Design**, and building modern platforms.  
 📍 Based in Algeria | 🎓 Bachelor in Computer Science  
