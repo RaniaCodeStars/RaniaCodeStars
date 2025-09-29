@@ -65,8 +65,8 @@
 
 ## 📫 Contact  
 <p align="left">
-  <a href="nourgnh0@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:nourgnh0@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/rani_gnh"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://discordapp.com/users/rania_gnh"><img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/></a>
   <a href="https://www.instagram.com/rania_gnh"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
 </p>  
