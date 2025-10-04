@@ -69,7 +69,7 @@
 
 ## 📫 Contact  
 <p align="left">
-  <a href="mailto:nourgnh0@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/></a>
+  <a href="mailto:nouraniagnf04@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/></a>
   <a href="https://discordapp.com/users/rania_gnh"><img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/></a>
   <a href="https://www.instagram.com/rania_gnh"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
 </p>  
